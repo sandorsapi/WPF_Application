@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATTS", "ATTS\ATTS.csproj", "{A1B846A7-9B20-4A83-BD83-3C50769A18A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{4103F62C-AA78-43E6-9A07-6607ABC2CA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{C1242D21-2DC4-4C04-AC82-F984E4194C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B846A7-9B20-4A83-BD83-3C50769A18A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B846A7-9B20-4A83-BD83-3C50769A18A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B846A7-9B20-4A83-BD83-3C50769A18A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B846A7-9B20-4A83-BD83-3C50769A18A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4103F62C-AA78-43E6-9A07-6607ABC2CA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4103F62C-AA78-43E6-9A07-6607ABC2CA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4103F62C-AA78-43E6-9A07-6607ABC2CA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4103F62C-AA78-43E6-9A07-6607ABC2CA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1242D21-2DC4-4C04-AC82-F984E4194C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1242D21-2DC4-4C04-AC82-F984E4194C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1242D21-2DC4-4C04-AC82-F984E4194C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1242D21-2DC4-4C04-AC82-F984E4194C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

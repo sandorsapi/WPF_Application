@@ -1,0 +1,10 @@
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\MUNKA\ATTS Code\ATTS_App\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache

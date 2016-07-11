@@ -1,0 +1,5 @@
+D:\MUNKA\ATTS Code\ATTS_App\Shared\bin\Debug\Shared.dll
+D:\MUNKA\ATTS Code\ATTS_App\Shared\bin\Debug\Shared.pdb
+D:\MUNKA\ATTS Code\ATTS_App\Shared\obj\Debug\Shared.dll
+D:\MUNKA\ATTS Code\ATTS_App\Shared\obj\Debug\Shared.pdb
+D:\MUNKA\ATTS Code\ATTS_App\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
